@@ -77,3 +77,17 @@
 //      return result;
 // }
 // console.log(getStatus(3));
+
+
+// Question 3
+// function loginSystem(username,password){
+//     if(username==="Admin" && password==="MMaa12##") return "Login Successfully Completed!"
+//     if(username==="" && password==="") return "Enter username and password"
+//     if(username==="" && password==="MMaa12##") return "Enter username"
+//     if(username==="Admin" && password==="") return "Enter password"
+//     if(username!=="Admin" && password!=="MMaa12##") return "Invalid username and password"
+//     if(username!=="Admin" && password==="MMaa12##") return "Invalid username"
+//     if(username==="Admin" && password!=="MMaa12##") return "Invalid password"
+// }
+// console.log(loginSystem("Admin","MMaa12##"));
+
