@@ -6,7 +6,8 @@
 
 // Alot of problems solved with all this
 
-
+// Day-4
+// Practice qn and then we moving to loops and all that 
 
 
 
