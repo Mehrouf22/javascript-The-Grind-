@@ -91,3 +91,36 @@
 // }
 // console.log(loginSystem("Admin","MMaa12##"));
 
+// Question 4
+
+// function ultimateCheck(num){
+//     if (num<=0) return "Invalid input"
+
+//     let result="";
+
+//     if(num%2===0){
+//         result +="Even "
+//     }else{
+//         result +="Odd "
+//     }
+
+//     if(num>100){
+//         result +="Huge "
+//     }else if(num>50){
+//         result +="Large "
+//     }else{
+//         result +="Small "
+//     }
+
+//     if(num%3===0){
+//         result +="Div3 "
+//     }else if(num%5===0){
+//         result +="Div 5"
+//     }else{
+//         result +="Not Div by 3 and 5"
+//     }
+
+// return result
+
+// }
+// console.log(ultimateCheck(210));
