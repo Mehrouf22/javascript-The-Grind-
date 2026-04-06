@@ -124,3 +124,21 @@
 
 // }
 // console.log(ultimateCheck(210));
+
+// Assignment in js
+
+// var a="Mehrouf";
+// let b="Ananya";
+// const c="Raine";
+// console.log(a,b,c);
+
+// {
+//     let a="Manu";
+//     console.log(a);
+// }
+
+// let name="Mehrouf";
+// let city="Thrissur";
+// let age=24;
+// console.log(name,city,age);
+
