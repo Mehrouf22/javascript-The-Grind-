@@ -142,3 +142,45 @@
 // let age=24;
 // console.log(name,city,age);
 
+// let a=prompt("Whats you name?");
+// (alert("welcome "+a  ));
+
+// let user="Manu";
+// console.log(typeof(user));
+
+// let a=prompt("enter anything");
+// console.log(typeof(a )+("welcome "+a));
+
+// let age=prompt("Enter age");
+// console.log(age+5);
+
+// let msg="i love sheriyans";
+// console.log(msg.split(""));
+
+// let name="Manu";
+// console.log(`Hey ${name}, welcome to js!`);
+// console.log(name.includes(""));
+
+// let name=prompt("Enter your name");
+// let Company=prompt("Enter your Company");
+// console.log(`Hello Welcome ${name} Ceo of ${Company}`)
+
+// // Date types
+// let age=255;
+// let name="Harsh";
+// let isStudent=false;
+// let skills=["js","html"];
+// let user={city:"Thrissur"};
+// let x=null;
+// let y;
+// let z=Symbol("id");
+// console.log(typeof(age));
+// console.log(typeof(name));
+// console.log(typeof(isStudent));
+// console.log(typeof(skills));
+// console.log(typeof(user));
+// console.log(typeof(x));
+// console.log(typeof(y));
+// console.log(typeof(z));
+
+
