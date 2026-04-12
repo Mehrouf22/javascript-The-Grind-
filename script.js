@@ -195,3 +195,70 @@
 //     console.log("FizzBuzz")
 //    }
 // }
+
+// Mastering Loops
+
+// for(let i=1;i<16;i++){
+//     console.log(i);
+// }
+
+// let i=1;
+// while(i<11){
+// console.log(i);
+//     i++;
+// }
+
+// let i=2;
+// while(i<21){
+// console.log(i);
+// i++;
+// }
+
+// let i=10;
+// while(i>0){
+// console.log(i);
+// i--;
+// }
+
+// let i=1;
+// do{
+//     console.log(i);
+// i++
+// }
+// while(i<11);
+
+// let i=10;
+// while(i>0){
+// console.log(i);
+// i--;
+// }
+
+// for(let i=1;i<21;i++){
+//     if(i%2===0){
+//         console.log(i);
+//     }
+// }
+
+// let i=1;
+// while(i<16){
+//     if(i%2!==0){
+//         console.log(i + " is Odd");
+//     }
+//     i++;
+// }
+
+// for(let i=1;i<10;i++){
+//     console.log(5+"x"+i+"="+5*i);
+// }
+
+// for(let i=1;i<51;i++){
+//    if(i%3===0){
+//     console.log(i);
+//    } 
+// }
+
+// for(let i=1;i<51;i++){
+//     if(i%3===0){
+//         console.log(i);
+//     }
+// }
