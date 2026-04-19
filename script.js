@@ -531,3 +531,124 @@
 // }
 // console.log(greet( ));
 
+
+// function abcd(val1,val2){
+// return val1+val2;
+// }
+// console.log(abcd(10,90));
+
+// function addd(a,b){
+//     return a+b;
+// }
+// console.log(add(10,20));
+
+// function greet(name=guest){
+//     return "Welcome "+name;
+// }
+// console.log(greet());
+
+// function checkage(age){
+//     if(age<18){
+//         return "Not allowed"
+//     }else{
+//         return "Allowed"
+//     }
+// }
+// console.log(checkage(10));
+
+// function square(num){
+//     return num*num;
+// }
+// console.log(square(4));
+
+// function calculator(a,b,operation){
+//     return operation(a,b);
+// }
+// console.log(calculator(10,5,function(x,y){
+//     return x+y;
+// }));
+// console.log(calculator(10,5,function(x,y){
+//     return x-y;
+// }));
+// console.log(calculator(10,5,function(x,y){
+//     return x*y;
+// }));
+// console.log(calculator(10,5,function(x,y){
+//     return x/y;
+// }));
+// console.log(calculator(10,0,function(x,y){
+//     console.log("Cannot divide by zero");
+// }));
+// console.log(calculator(10,5,function(x,y,z){
+//     return "invalid Operation"
+// }));
+
+// function outer(){
+//     let name="Mehrouf";
+
+//     return function(){
+//         return "Hello "+name;
+//     }
+
+//     let x=outer();
+//     console.log(x());
+// }
+
+
+// function counter(){
+//     let count=0;
+
+//     return function(){
+//         count++;
+//         return count;
+//     }
+// }
+
+// let x=counter();
+// console.log(x());
+// console.log(x());
+// console.log(x());
+
+
+// function createCounter(){
+// let count=0;
+//  return function(){
+//     count++;
+//     return count;
+//  }
+// }
+// let x=createCounter();
+// console.log(x());
+// console.log(x());
+// console.log(x());
+
+// function secreatMessage(){
+//     let message="msg";
+
+//     return function(){
+//         console.log(message);
+//     }
+// }
+// let x=secreatMessage();
+// console.log(x());
+
+// function bankAccount(amount){
+  
+
+//     return function(){
+//             amount-=20;
+//        return amount;
+//     }
+// }
+// let x=bankAccount(100);
+// console.log(x());
+// console.log(x());
+// console.log(x());
+
+// function greetUser(name){
+//     return function(){
+//             return "welcome "+name;
+//     }
+// }
+// let x=greetUser("Mehrouf");
+// console.log(x());
